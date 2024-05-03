@@ -1,0 +1,3 @@
+article_save:
+    path: /article/save
+    controller: App\Controller\IndexController::save
